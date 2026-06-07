@@ -18,7 +18,7 @@ python -m outreach stripe.com --mock --dry-run --confirm-send
 
 ## Live run (after account setup)
 
-1. Copy `.env.example` → `.env` and fill API keys
+1. Fill in `.env` with your API keys
 2. Verify Brevo sender email/domain
 3. Run with a small limit first:
 
@@ -45,7 +45,7 @@ python -m outreach your-seed.com --max-companies 10 --confirm-send
 ```
 src/outreach/
   cli.py                 # Typer entrypoint
-  config.py              # .env settings
+  config.py              # loads .env settings
   clients/               # HTTP/SDK wrappers per vendor
   stages/                # One stage per pipeline step
   pipeline/              # Orchestrator + checkpoint

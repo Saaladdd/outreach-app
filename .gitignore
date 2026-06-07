@@ -1,0 +1,25 @@
+# Secrets — never commit
+.env
+.env.local
+.env.*.local
+
+# Python
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+*.egg-info/
+dist/
+build/
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+
+# Pipeline run artifacts (may contain contact data)
+runs/
+
+# OS / editor
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
