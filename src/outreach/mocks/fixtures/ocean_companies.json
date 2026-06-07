@@ -1,0 +1,7 @@
+[
+  {"domain": "razorpay.com", "name": "Razorpay", "industry": "Fintech", "employee_count": "1001-5000"},
+  {"domain": "chargebee.com", "name": "Chargebee", "industry": "SaaS", "employee_count": "501-1000"},
+  {"domain": "freshworks.com", "name": "Freshworks", "industry": "SaaS", "employee_count": "5001-10000"},
+  {"domain": "postman.com", "name": "Postman", "industry": "Developer Tools", "employee_count": "501-1000"},
+  {"domain": "clevertap.com", "name": "CleverTap", "industry": "MarTech", "employee_count": "201-500"}
+]

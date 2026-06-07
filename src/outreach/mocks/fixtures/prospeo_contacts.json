@@ -1,0 +1,29 @@
+[
+  {
+    "person_id": "mock-1",
+    "first_name": "Priya",
+    "last_name": "Sharma",
+    "title": "VP Sales",
+    "linkedin_url": "https://www.linkedin.com/in/mock-priya-sharma",
+    "company_domain": "razorpay.com",
+    "company_name": "Razorpay"
+  },
+  {
+    "person_id": "mock-2",
+    "first_name": "Arjun",
+    "last_name": "Mehta",
+    "title": "Chief Revenue Officer",
+    "linkedin_url": "https://www.linkedin.com/in/mock-arjun-mehta",
+    "company_domain": "chargebee.com",
+    "company_name": "Chargebee"
+  },
+  {
+    "person_id": "mock-3",
+    "first_name": "Sneha",
+    "last_name": "Iyer",
+    "title": "VP Marketing",
+    "linkedin_url": "https://www.linkedin.com/in/mock-sneha-iyer",
+    "company_domain": "freshworks.com",
+    "company_name": "Freshworks"
+  }
+]
